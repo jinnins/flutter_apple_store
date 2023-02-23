@@ -1,5 +1,5 @@
 # Apple Store
-Apple Store Project for Learning Flutter State Management.
+Apple Store Project for Learning Flutter State Management!
 
 |Widget Tree|Store|Cart|
 |:-:|:-:|:-:|
